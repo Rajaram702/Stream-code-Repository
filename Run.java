@@ -7,6 +7,6 @@ public Stirng m2()
 public String m1(String x,int y)
 {
 	
-	System.out.println("Technology is a software which build on one or more language.by using it we can develope application very easily and effectivly Technology is a software which build on one or more language.by using it we can develope application very easily and effectivly");
+	System.out.println("Technology is a software which build on one or more language.by using it we can develope application very easily");
     return msg;
 }
